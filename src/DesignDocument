@@ -1,0 +1,9 @@
+Classes:
+LVM Superclass - Instance Variables: String name, String name, String UUID,
+PhysicalDrive Subclass of LVM - Instance Variables: int size
+PhysicalVolume Subclass of LVM -
+LogicalVolume Subclass of LVM -
+VolumeGroup Subclass of LVM - Instance Variables: , ArrayList<PhysicalVolume> pVs, ArrayList<LogicalVolume> lVs
+
+Runner -
+
