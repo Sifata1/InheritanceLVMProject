@@ -6,7 +6,7 @@ public class Runner {
         System.out.println("Welcome to the LVM System!");
         System.out.println("cmd#: ");
         String input = s.nextLine();
-        if (input.contains("install-drive")) {
+        if (input.contains("install-drive") && input.contains) {
 
         }
     }
